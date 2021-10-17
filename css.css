@@ -1,0 +1,210 @@
+h1
+{
+    color: green;
+}
+.main
+{
+    width: 100%;
+}
+header {
+    font-family: 'Days One';font-size: 22px;
+    background-color: #eeeeee;
+}
+.header
+{
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid #dbdbdb;
+}
+.box1 , .box2
+{
+    border: 1px solid #dbdbdb;
+}
+.box2
+{
+    border: none;
+}
+table {
+    width:100%;
+  }
+  table, th, td {
+    border: 1px solid #dbdbdb;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;
+    border: 1px solid #dbdbdd;
+  }
+  th
+  {
+      background-color: #eeeeee;
+      font-weight: normal;
+  }
+  th:hover, td:hover
+  {
+      background-color: #eeeeee;
+  }
+  .map
+  {
+      border: 1px solid #dbdbdb;
+  }
+  .box3
+  {
+      display: flex;
+  }
+  .box4, .box5
+  {
+      width: 50%;
+  }
+  footer
+  {
+      background-color: #eeeeee;
+      margin-top: 10px;
+      text-align: center;
+      padding: 10px;
+      height: 70px;
+  }
+  .report
+  {
+      border: none;
+      background-color: #dbdbdb;
+      margin: 5px;
+  }
+  .report:hover
+  {
+      background-color: #eeeeee;
+      border: 1px solid #dbdbdb;
+  }
+
+  
+  .report
+  {
+      border: none;
+      background-color: #dbdbdb;
+      margin: 5px;
+  }
+  .report:hover
+  {
+      background-color: #eeeeee;
+      border: 1px solid #dbdbdb;
+  }
+  .in-report
+  {
+      width: 100%;
+  }
+  .rep-label
+  {
+      background-color: #eeeeee;
+      padding: 5px;
+      margin-top: 5px;
+  }
+  #report
+  {
+      background-color: #dbdbdb;
+      border: 1px solid gray;
+      padding: 5px;
+  }
+  #report:hover
+  {
+      background-color: #eeeeee;
+
+  }
+
+  sup
+  {
+      cursor: pointer;
+  }
+  /* sup:hover
+  {
+      background-color: blue;
+  } */
+.close
+  {
+      float: right;
+      top: 0px;
+      cursor: pointer;
+      width: 30px;
+      font-size:12px;
+      border:none;
+      background-color: #dbdbdb;
+  }
+.close:hover
+  {
+      background-color: #eeeeee;
+  }
+button
+  {
+      background-color: #eeeeee;
+      border: none;
+      font-size: 12px;
+  }
+button:hover
+  {
+      background-color: #dbdbdb;
+  }
+  @media(max-width:568px)
+  {
+      .box2
+      {
+         padding-top: 20px;
+      }
+  }
+  .container-thank-you
+  {
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+  }
+.fb-page
+{
+    padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.voters
+  {
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      border: 1px solid #dbdbdb;
+      padding: 10px;
+      border-radius: 5px;
+      background-color: #eeeeee;
+      
+  }
+.close
+  {
+      float: right;
+      top: 0px;
+      cursor: pointer;
+      width:50px;
+      font-size:12px;
+      border:none;
+      background-color: #dbdbdb;
+  }
+.close:hover
+  {
+      background-color: #eeeeee;
+  }
+button
+  {
+      background-color: #eeeeee;
+      border: none;
+      font-size: 12px;
+  }
+button:hover
+  {
+      background-color: #dbdbdb;
+  }
+  footer
+  {
+      background-color: #eeeeee;
+      margin-top: 10px;
+      text-align: center;
+      padding: 10px;
+      height: 60px;
+  }
